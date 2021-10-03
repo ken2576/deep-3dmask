@@ -1,0 +1,8 @@
+root_dir = [realestate10k_train_folder]
+val_dir = [realestate10k_test_folder]
+log_dir = ./logs
+ckpt_dir = ./ckpts
+debug = False
+exp_name = 3dmpi_vgg
+loss_type = vgg
+num_epochs = 400

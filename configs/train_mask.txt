@@ -1,0 +1,10 @@
+root_dir = [mask_train_folder]
+val_dir = [mask_test_folder]
+log_dir = ./logs
+ckpt_dir = ./ckpts
+debug = False
+exp_name = 3dmask_vgg_only
+img_hw = [360, 640]
+num_steps = 400000
+loss_type = vgg_only
+mpi_model = [pretrained_mpi_model_checkpoint]

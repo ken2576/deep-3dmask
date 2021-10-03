@@ -1,0 +1,5 @@
+root_dir = [frame_folder]
+bg_dir = [background_folder]
+out_dir = [output_folder]
+ckpt_path = [ckpt_path]
+img_wh = [640, 360]
