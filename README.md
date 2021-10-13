@@ -17,7 +17,7 @@ Make sure you have up-to-date NVIDIA drivers supporting CUDA 11.1 (10.2 could wo
 Run
 
 ```
-conda env create -f environment.yml
+conda env create -f environments.yml
 conda activate video_viewsynth
 ```
 ## Usage
